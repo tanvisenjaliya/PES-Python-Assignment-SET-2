@@ -1,0 +1,15 @@
+print ("\a=\a")
+print ("\b")
+print ("\cx")
+print("\C-x")
+print ("\e")
+print ("\f")
+print("\M-\C-x")
+print ("\n")
+print ("\nnn")
+print ("\r")
+print ("\s")
+print ("\t")
+print ("\v")
+#print "\x"
+#print "\xnn"
